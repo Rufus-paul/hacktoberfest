@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- 
+#### Name: [K. Rufus paul](https://github.com/Rufus-paul)
+- Place: Telangana, India
+- Bio: C,JAVA,Photoshop,Blender,CSE Student
+- Github: [Ítalo Epifânio](https://github.com/Rufus-paul)
