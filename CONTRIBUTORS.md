@@ -2431,4 +2431,4 @@ Noida
 #### Name: [K. Rufus paul](https://github.com/Rufus-paul)
 - Place: Telangana, India
 - Bio: C,JAVA,Photoshop,Blender,CSE Student
-- Github: [Ítalo Epifânio](https://github.com/Rufus-paul)
+- Github: [Rufus-paul](https://github.com/Rufus-paul)
